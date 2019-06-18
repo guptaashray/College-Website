@@ -1,0 +1,58 @@
+
+// HEADER
+
+
+#mu-header{	
+	background-color: #f8f8f8;	
+	display: inline;
+	float: left;
+	width: 100%;
+	.mu-header-area{				
+		display: inline;
+		float: left;
+		padding: 10px 0;
+		width: 100%;
+		.mu-header-top-left{
+			display: inline;
+			float: left;
+			width: 100%;
+			.mu-top-email{
+				display: inline;
+				float: left;				
+				font-size: 14px;
+				i{
+					margin-right: 5px;
+				}				
+			}
+			.mu-top-phone{
+				border-left: 1px solid #ddd;
+				display: inline;
+				font-size: 14px;
+				float: left;
+				margin-left: 15px;
+				padding-left: 15px;
+				i{
+					margin-right: 5px;
+				}				
+			}			
+		}
+		.mu-header-top-right{
+			display: inline;
+			float: left;
+			text-align: right;
+			width: 100%;		
+			.mu-top-social-nav			{
+				display: inline-block;
+				li{
+					display: inline-block;
+					a{						
+						display: inline-block;
+						font-size: 14px;
+						padding: 0 8px;
+						@include transition(all 0.5s);						
+					}
+				}
+			}
+		}
+	}	
+}

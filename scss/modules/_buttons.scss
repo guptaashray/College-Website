@@ -1,0 +1,27 @@
+
+.mu-read-more-btn{
+	border: 1px solid #fff;
+	color: #fff;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	@include transition(all 0.5s);
+	&:hover,
+	&:focus{				
+		color: #fff;		
+
+	}
+}
+.mu-post-btn{
+	background-color: transparent;
+	border: 1px solid #ccc;
+	display: inline-block;
+	font-size: 16px;
+	padding: 10px 18px;
+	@include transition(all 0.5s);
+	&:hover,
+	&:focus{
+		color: #fff;		
+	}
+}

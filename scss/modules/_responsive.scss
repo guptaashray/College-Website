@@ -1,0 +1,405 @@
+
+// RESPONSIVE 
+
+
+@media(max-width:1199px ){
+	#mu-slider .mu-slider-single .mu-slider-content {	 
+	  padding: 0 10%;	  
+	}	
+	#mu-slider .mu-slider-single .mu-slider-content {	 
+	  top: 13%;	  
+	}	
+}	
+
+
+@media(max-width:991px ){
+	#mu-menu .navbar-default .navbar-nav li > a {	
+		font-size: 15px;	  
+		padding: 25px 10px;	  
+	}	
+	#mu-search .mu-search-area {	 
+	  	padding: 30% 0;	  
+	}
+	#mu-slider .mu-slider-single .mu-slider-content h2 {
+	  	font-size: 35px;
+		line-height: 65px;
+		margin-bottom: 0;
+	}
+	#mu-slider .mu-slider-single .mu-slider-img {	 
+	  	height: 400px;	  
+	}
+	#mu-slider .mu-slider-single .mu-slider-content a {
+	  	font-size: 15px;
+		margin-top: 5px;
+		padding: 5px 15px;
+	}
+	#mu-slider .mu-slider-single .mu-slider-content p {
+	  font-size: 16px;	 
+	  line-height: 1.5;
+	}
+	#mu-service .mu-service-area .mu-service-single h3 {
+	  font-size: 20px;
+	}
+	#mu-about-us {	 
+	  padding: 60px 0;	  
+	}
+	#mu-about-us .mu-about-us-area .mu-about-us-right {	 
+	  margin-top: 30px;	  
+	}
+	#mu-abtus-counter {	 
+	  background-size: 100% 100%;	  
+	  padding: 60px 0;	  
+	}
+	#mu-abtus-counter .mu-abtus-counter-area .mu-abtus-counter-single span {	 
+	  font-size: 40px;
+	}
+	#mu-abtus-counter .mu-abtus-counter-area .mu-abtus-counter-single h4 {	 
+	  font-size: 30px;	  
+	  margin-top: 15px;
+	}
+	#about-video-popup span {	 	  	  
+	  top: 20px;
+	  position: absolute;
+	  right: 20px;
+	}
+	#mu-features {	 
+	  padding: 60px 0;	  
+	}
+	.mu-title p {	 
+	  padding: 0 20px;
+	}
+	#mu-features .mu-features-area .mu-features-content {	 
+	  margin-top: 30px;	  
+	}
+	#mu-latest-courses {	 
+	  padding: 60px 0 90px;	  
+	}
+	#mu-our-teacher {	 
+	  padding: 60px 0;
+	  width: 100%;
+	}
+	#mu-our-teacher .mu-our-teacher-area .mu-our-teacher-content .mu-our-teacher-single {	 
+	  margin-bottom: 30px;
+	}
+	#mu-testimonial .mu-testimonial-area {	  
+	  padding: 0 20px;	  
+	}
+	#mu-testimonial .mu-testimonial-area .mu-testimonial-content .mu-testimonial-item .mu-testimonial-quote {	 
+	  padding: 60px 15px;	  
+	}
+	#mu-testimonial .mu-testimonial-area .mu-testimonial-content .mu-testimonial-item .mu-testimonial-quote blockquote::before {	 
+	  left: 0;	
+	}
+	#mu-from-blog {	 
+	  padding: 60px 0;	  
+	}
+	#mu-from-blog .mu-from-blog-area .mu-from-blog-content {	 
+	  margin-top: 30px;	  
+	}
+	#mu-from-blog .mu-from-blog-area .mu-from-blog-content .mu-blog-single-item .mu-blog-meta a {	 
+	  letter-spacing: 0;
+	  margin-right: 5px;	  
+	}
+	#mu-from-blog .mu-from-blog-area .mu-from-blog-content .mu-blog-single-item .mu-blog-single-img .mu-blog-caption h3{
+	  font-size: 20px;
+	}
+	#mu-course-content .mu-course-content-area .mu-sidebar {	 
+	  margin-top: 30px;	  
+	}
+	#mu-search .mu-search-area .mu-search-form input[type="search"] {	 
+	  font-size: 30px;	  
+	}
+	#mu-search .mu-search-area .mu-search-close {
+	  right: 50px;	  
+	}
+	#mu-search .mu-search-area {
+	  padding: 35% 0;
+	}
+	#mu-contact .mu-contact-area .mu-contact-content .mu-contact-right {	 
+	  margin-top: 50px;	  
+	}
+
+
+	
+}
+
+
+@media(max-width:767px ){
+
+	.navbar-header{
+		padding: 10px 0;
+	}
+	#mu-menu .navbar-header .navbar-brand {	 
+	  padding-top: 10px;	  
+	}
+	#mu-search-icon{
+		display: none;
+	}
+	.navbar-toggle {
+	  background-color: $theme-color;	  	  
+	  border-radius: 0;	  
+	}
+	.navbar-default .navbar-toggle {
+	  border-color: $theme-color;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+	  background-color: #fff;
+	}
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	  background-color: $theme-color;
+	}
+	#mu-menu .navbar-default .navbar-nav li > a {	 
+	  padding: 15px 20px;
+	}
+	#mu-slider .mu-slider-single .mu-slider-content h2 {
+	  font-size: 30px;
+	  line-height: 60px;	  
+	}
+	#mu-abtus-counter {
+	  background-position: center center;
+	  background-size: cover;	 
+	}
+	#mu-abtus-counter .mu-abtus-counter-area .mu-abtus-counter-single {
+	  border: medium none;	 
+	  margin-bottom: 25px;
+	}
+	#mu-features .mu-features-area .mu-features-content .mu-single-feature {	 
+	  text-align: center;	  
+	}
+	#mu-features .mu-features-area .mu-features-content .mu-single-feature h4::after {	 	  
+	  display: none;
+	}
+	#mu-latest-courses .mu-latest-courses-area .mu-latest-courses-content .mu-latest-course-single .mu-latest-course-img .mu-latest-course-imgcaption a {	 
+	  font-size: 14px;
+	}
+	#mu-latest-courses .mu-latest-courses-area .mu-latest-courses-content .mu-latest-course-single .mu-latest-course-img .mu-latest-course-imgcaption span {	 
+	  font-size: 14px;
+	}
+	#mu-from-blog .mu-from-blog-area .mu-from-blog-content .mu-blog-single-item {	 
+	  margin-bottom: 30px;	  
+	}
+	#mu-footer .mu-footer-top .mu-footer-top-area .mu-footer-widget {	 
+	  margin-bottom: 30px;
+	  text-align: center;
+	}
+	#mu-footer .mu-footer-top .mu-footer-top-area .mu-footer-widget .mu-subscribe-form input[type="email"] {	 
+	  width: 50%;
+	  margin-right: 10px;
+	}
+	#about-video-popup iframe {	 
+	  height: 350px;	  
+	  width: 80%;
+	}
+	#about-video-popup span {
+	  position: absolute;
+	  right: 30px;
+	  top: 30px;
+	  margin-right: 0;
+	  margin-top: 0;
+	}
+	#mu-course-content {	 
+	  padding: 50px 0;	  
+	}
+	#mu-gallery {	 
+	  padding: 50px 0;	  	  
+	}	
+	#mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-body ul li .mu-single-gallery .mu-single-gallery-item .mu-single-gallery-img {	 
+	  height: 320px;	 
+	}
+	#mu-contact {	 
+	  padding: 50px 0;	  
+	}
+	#mu-error {	 
+	  padding: 50px 0;	  
+	}
+	#mu-error .mu-error-area h2 {	 
+	  font-size: 150px;
+	  line-height: 1.5;
+	}
+
+
+
+	
+
+}
+
+@media(max-width:640px){
+	#mu-header .mu-header-area .mu-header-top-left .mu-top-phone {
+	  display: none;
+	}
+	#mu-slider .mu-slider-single .mu-slider-content h2 {
+	  font-size: 25px;
+	  line-height: 50px;
+	}
+	#mu-slider .mu-slider-single .mu-slider-img {
+	  height: 350px;
+	}
+	#mu-slider .mu-slider-single .mu-slider-content h4 {
+	  letter-spacing: 0;	 
+	}
+	#mu-service {	 
+	  margin-top: 30px;	  
+	}	
+	#mu-service .mu-service-area .mu-service-single {	 
+	  padding: 20px 5px;
+	}
+	#mu-service .mu-service-area .mu-service-single h3 {
+	  font-size: 16px;
+	}	
+	#mu-slider .mu-slider-single .mu-slider-img figure img {	 
+	  width: auto;
+	}
+	#mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-top ul li {	 
+	  padding: 5px 10px;
+	  margin-bottom: 5px;	  
+	}
+
+}	
+
+
+@media(max-width:480px ){
+	#mu-header .mu-header-area .mu-header-top-left .mu-top-email {	 
+	  font-size: 12px;
+	  margin-top: 3px;
+	}
+	#mu-header .mu-header-area .mu-header-top-left .mu-top-email i {
+	  margin-right: 0;
+	}
+	#mu-header .mu-header-area .mu-header-top-right .mu-top-social-nav li a {	 
+	  font-size: 12px;
+	  padding: 0 5px;	  
+	}
+	#mu-slider .mu-slider-single .mu-slider-content h2 {
+	  font-size: 18px;
+	  line-height: 35px;
+	}
+	#mu-slider .mu-slider-single .mu-slider-content h4 {
+	  font-size: 15px;	 
+	  line-height: 16px;
+	}
+	#mu-slider .mu-slider-single .mu-slider-content p {
+	  font-size: 14px;
+	  line-height: 1.5;	  
+	}
+	#mu-slider .mu-slider-single .mu-slider-content {
+	  padding: 0 2%;
+	}
+	#mu-slider .mu-slider-single .mu-slider-content {
+	  top: 5%;
+	}
+	#mu-slider .slick-prev, #mu-slider .slick-next {	 
+	  height: 40px;
+	  width: 40px;
+	}
+	#mu-slider .mu-slider-single .mu-slider-img {
+	  height: 270px;
+	}
+	#mu-service .mu-service-area .mu-service-single {
+	  padding: 20px 15px;
+	  width: 100%;
+	}
+	#mu-service .mu-service-area .mu-service-single h3 {
+	  font-size: 18px;
+	}
+	#about-video-popup iframe {
+	  height: 300px;
+	  margin: 5% auto;
+	  width: 80%;
+	}	
+	#mu-footer .mu-footer-top .mu-footer-top-area .mu-footer-widget .mu-subscribe-form input[type="email"] {
+	  margin-right: 0;
+	  width: 100%;
+	}
+	.mu-pagination {	 
+	  text-align: center;
+	}
+	.mu-pagination .pagination li a {	 
+	  font-size: 14px;
+	  margin: 0 2px;
+	  padding: 5px 12px;	  
+	}
+	.mu-blog-single .mu-blog-single-item .mu-blog-description h1{
+	  font-size: 25px;
+	}
+	.mu-blog-single .mu-blog-single-item .mu-blog-description h2{
+	  font-size: 22px;
+	  line-height: 30px;
+	}
+	.mu-blog-single .mu-blog-single-item .mu-blog-description h3{
+	  font-size: 18px;
+	  line-height: 24px;	  
+	}
+	.mu-blog-single .mu-blog-single-item .mu-blog-description h4{
+	  font-size: 16px;
+	  line-height: 20px;	  
+	}
+	.mu-blog-single .mu-blog-single-item .mu-blog-social .mu-news-social-nav li a {	 
+	  font-size: 15px;
+	  height: 30px;	 
+	  line-height: 30px;	  
+	  min-width: 30px;	  
+	}
+	#respond input[type="text"], #respond input[type="email"], #respond input[type="url"] {	 
+	  width: 100%;
+	}
+	#mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-body ul li .mu-single-gallery .mu-single-gallery-item .mu-single-gallery-img {
+	  height: 280px;
+	}
+	#mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-top ul li {
+	  margin-bottom: 10px;	 
+	}
+	#mu-contact .mu-contact-area .mu-contact-content .mu-contact-right iframe {
+	  height: 350px;
+	}
+
+	
+}
+
+
+@media(max-width:360px ){	
+	#mu-about-us .mu-about-us-area .mu-about-us-left h2 {
+	  font-size: 30px;
+	  margin-bottom: 10px;	 
+	}
+	#mu-testimonial .mu-testimonial-area .mu-testimonial-content .mu-testimonial-item .mu-testimonial-quote {
+	  padding: 40px 15px 80px;
+	}
+	#mu-footer .mu-footer-top {	 
+	  padding: 50px 0 10px;	  
+	}
+	.mu-pagination .pagination li a {	 	  
+	  padding: 5px 8px;
+	}
+	.mu-comments-area .comments .commentlist li .news-img {	 
+	  margin-right: 0;	  
+	}
+	.mu-comments-area .comments .commentlist .children {
+	  margin-left: 10px;
+	}
+	.mu-blog-single .mu-blog-single-item .mu-blog-social .mu-news-social-nav li a {	 
+	  margin-bottom: 10px;
+	}
+	#mu-gallery .mu-gallery-area .mu-gallery-content .mu-gallery-body ul li .mu-single-gallery .mu-single-gallery-item .mu-single-gallery-img {
+	  height: 220px;
+	}
+	#mu-contact .mu-contact-area .mu-contact-content .mu-contact-right iframe {
+	  height: 300px;
+	}
+	#mu-error .mu-error-area p {
+	  font-size: 18px;
+	}
+	#mu-error .mu-error-area span {
+	  font-size: 14px;
+	}
+	#mu-error .mu-error-area h2 {
+	  font-size: 100px;	 
+	}
+
+	
+}
+
+
+@media(max-width:320px ){
+	
+
+}

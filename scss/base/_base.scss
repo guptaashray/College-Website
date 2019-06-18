@@ -1,0 +1,19 @@
+
+
+html,body{
+	
+}
+
+body{
+	background-color: #ffffff;
+	font-family: $base-font;	
+	color:$base-color;
+	font-size:$base-font-size;	
+	overflow-x: hidden;
+}
+.no-padding{
+	padding: 0;
+}
+.no-border{
+	border: none;
+}

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77a86649-3251-4bd9-b12e-36a84cd68b4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/small/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/small/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/small/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/small/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/small/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/small/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/small/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/small/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/small/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gallery/small/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/gallery/small/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="208" column="22" selection-start-line="208" selection-start-column="22" selection-end-line="208" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="797">
+              <caret line="219" column="37" selection-start-line="219" selection-start-column="37" selection-end-line="219" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/custom.js" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/jquery.counterup.js" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/course-detail.html" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/contact.html" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/blog-single.html" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/course.html" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/blog-archive.html" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/index.html" />
+        <option value="$PROJECT_DIR$/MarkUps-Varsity/Varsity/gallery.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="College Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="College Website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="College Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="College Website" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="College Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="College Website" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="College Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="College Website" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="College Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="College Website" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="College Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="College Website" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77a86649-3251-4bd9-b12e-36a84cd68b4e" name="Default Changelist" comment="" />
+      <created>1560619597555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560619597555</updated>
+      <workItem from="1560619598970" duration="21408000" />
+      <workItem from="1560806826870" duration="9249000" />
+      <workItem from="1560869601913" duration="476000" />
+      <workItem from="1560882942751" duration="1351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32484000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2247191" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/help/DOCUMENTATION/index.html" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/img/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/img/slider/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/img/gallery/big/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/img/gallery/big/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/scss/modules/_responsive.scss" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/css/jquery.fancybox.css" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/css/slick.css" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/404.html" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/jquery.counterup.js" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/jquery.fancybox.pack.js" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/scss/modules/_buttons.scss" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/waypoints.js" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/slick.js" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/jquery.mixitup.js" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/course-detail.html" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/blog-single.html" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/blog-archive.html" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/scss/layouts/_header.scss" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/scss/style.scss" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/course.html" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/contact.html" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/css/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/js/custom.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa25360.18993/style.css" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/index.html" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/MarkUps-Varsity/Varsity/gallery.html" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="208" column="22" selection-start-line="208" selection-start-column="22" selection-end-line="208" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="219" column="37" selection-start-line="219" selection-start-column="37" selection-end-line="219" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

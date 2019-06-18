@@ -1,0 +1,116 @@
+
+// FOOTER
+
+
+
+#mu-footer{
+	display: inline;
+	float: left;
+	width: 100%;
+	.mu-footer-top{
+		background-color: #333;
+		display: inline;
+		float: left;
+		padding: 50px 0;
+		width: 100%;
+		.mu-footer-top-area{
+			display: inline;
+			float: left;
+			width: 100%;
+			.mu-footer-widget{
+				display: inline;
+				float: left;
+				width: 100%;
+				h4{
+					color: #fff;
+					margin-bottom: 15px;
+					text-transform: uppercase;
+				}
+				ul{
+					li{
+						a{
+							color: #f9f9f9;
+							display: inline-block;
+							font-size: 14px;
+							font-weight: normal;
+							padding: 5px 0 5px 15px;
+							position: relative;
+							text-transform: capitalize;
+							@include transition(all 0.5s);
+							&:before{
+								content: "\f101";
+								font-family: FontAwesome;
+								left: 0;
+								position: absolute;
+								top: 5px;
+							}
+							&:hover,
+							&:focus{
+								margin-left: 5px;
+							}
+						}
+					}
+				}
+				p{
+					color: #f9f9f9;
+				}
+				.mu-subscribe-form{
+					display: inline;
+					float: left;
+					margin-top: 10px;
+					width: 100%;
+					input[type="email"]{
+						border: 1px solid #ccc;
+						border-radius: 4px;
+						color: #000;
+						font-size: 15px;
+						height: 35px;
+						margin-bottom: 20px;
+						padding: 5px;
+						width: 100%;
+						@include transition(all 0.5s);
+						
+					}
+					.mu-subscribe-btn{
+						color: #fff;
+						border: medium none;
+						border-radius: 4px;						
+						font-size: 14px;
+						letter-spacing: 0.5px;
+						padding: 5px 10px;
+						&:hover{
+
+						}
+					}					
+				}
+				address{
+					p{
+						font-weight: lighter;
+						letter-spacing: 0.5px;
+					}
+				}
+			}
+		}
+	}
+	.mu-footer-bottom{
+		background-color: #222;
+		display: inline;
+		float: left;
+		padding: 25px 0; 
+		width: 100%;
+		.mu-footer-bottom-area{
+			display: inline;
+			float: left;			
+			text-align: center;
+			width: 100%;
+			p{				
+				color: #fff;
+				margin-bottom: 0;
+				letter-spacing: 0.3px;
+				a{
+					color: #fff;
+				}
+			}
+		}
+	}
+}
