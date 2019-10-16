@@ -1,2 +1,2 @@
 # College-Website
-College website made by me using HTML,CSS and JS!
+College website made using HTML,CSS and JS!
